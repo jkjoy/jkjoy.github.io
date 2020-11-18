@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.lolike.cn</id>
     <title>爱萝莉</title>
-    <updated>2020-11-18T11:03:05.777Z</updated>
+    <updated>2020-11-18T11:08:33.886Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://www.lolike.cn"/>
     <link rel="self" href="https://www.lolike.cn/atom.xml"/>
@@ -10,6 +10,18 @@
     <logo>https://www.lolike.cn/images/avatar.png</logo>
     <icon>https://www.lolike.cn/favicon.ico</icon>
     <rights>All rights reserved 2020, 爱萝莉</rights>
+    <entry>
+        <title type="html"><![CDATA[我的第一篇文章]]></title>
+        <id>https://www.lolike.cn/wo-de-di-yi-pian-wen-zhang/</id>
+        <link href="https://www.lolike.cn/wo-de-di-yi-pian-wen-zhang/">
+        </link>
+        <updated>2020-11-18T11:06:58.000Z</updated>
+        <content type="html"><![CDATA[<p>关于这个域名的由来<br>
+最初是想注册lolike.com<br>
+因为有loli和like<br>
+合成词就像之前英文里学到的一样</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://www.lolike.cn/hello-gridea/</id>
