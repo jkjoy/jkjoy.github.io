@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.lolike.cn</id>
+    <id>https://blog.loliko.cn</id>
     <title>爱萝莉</title>
-    <updated>2020-11-19T05:00:55.313Z</updated>
+    <updated>2020-11-19T05:01:17.566Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://www.lolike.cn"/>
-    <link rel="self" href="https://www.lolike.cn/atom.xml"/>
+    <link rel="alternate" href="https://blog.loliko.cn"/>
+    <link rel="self" href="https://blog.loliko.cn/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>https://www.lolike.cn/images/avatar.png</logo>
-    <icon>https://www.lolike.cn/favicon.ico</icon>
+    <logo>https://blog.loliko.cn/images/avatar.png</logo>
+    <icon>https://blog.loliko.cn/favicon.ico</icon>
     <rights>All rights reserved 2020, 爱萝莉</rights>
     <entry>
         <title type="html"><![CDATA[我的第一篇文章]]></title>
-        <id>https://www.lolike.cn/wo-de-di-yi-pian-wen-zhang/</id>
-        <link href="https://www.lolike.cn/wo-de-di-yi-pian-wen-zhang/">
+        <id>https://blog.loliko.cn/wo-de-di-yi-pian-wen-zhang/</id>
+        <link href="https://blog.loliko.cn/wo-de-di-yi-pian-wen-zhang/">
         </link>
         <updated>2020-11-18T11:06:58.000Z</updated>
         <content type="html"><![CDATA[<p>关于这个域名的由来<br>
@@ -24,8 +24,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://www.lolike.cn/hello-gridea/</id>
-        <link href="https://www.lolike.cn/hello-gridea/">
+        <id>https://blog.loliko.cn/hello-gridea/</id>
+        <link href="https://blog.loliko.cn/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
